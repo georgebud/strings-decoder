@@ -1,8 +1,8 @@
 # strings-decoder
  decryption of strings in assembly language
 
- - Implementarea unui program care decodează o serie de șiruri codificate prin diferite metode criptografice.
- - Tema este formată din mai multe subpuncte, fiecare subpunct constând în decodarea unui șir codificat printr-o metodă specificată.
+  Implementarea unui program care decodează o serie de șiruri codificate prin diferite metode criptografice.
+  Tema este formată din mai multe subpuncte, fiecare subpunct constând în decodarea unui șir codificat printr-o metodă specificată.
 
 - metoda1: XOR între două șiruri de octeți
 - metoda2: Rolling XOR
